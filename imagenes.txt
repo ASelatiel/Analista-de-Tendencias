@@ -1,0 +1,17 @@
+Avion, Frutas, Flores, Palmeras, Cabañas, Olas
+Arboles, Binoculares, Atarayas, Sombrilla, Costa
+Muelle, Barcos, Lanchas, Brujula, Pescera
+Islas, Pantanos, Camuflaje, Peninsula, Ancla
+Anzuelo, Niños, Carritos, Mares, Oceanos
+Ballena, Artesanias, Mariscos, Gaviotas, Corales
+Arrecifes, Atardeceres, Mascotas, Nudos, Camarones
+Celebraciones, Salvavidas, Sombreros, Veleros, Sol
+Nubes, Timon, Buzo, Rios, Faro
+Luces, Desembarcos, Bahia, Mapas, Tropas
+Turistas, Helicoptero, Cangrejo, Garza, Caracol
+Aeropuerto, Avioneta, Puertos, Tortugas, Contenedores
+Armas, Escudo, Uniforme, Municiones, Cielo
+Escuelas, Submarino, Tecnologia disponible, Montañas, Buque Insignia
+Fragatas, Pescadores, Cañas de pescar, Canoas, Banderas
+Playa, Tratados, Flota, Comunidades, Botas
+Quepis, Estrellas,Flotador, Vestuarios, Pluma

@@ -1,0 +1,17 @@
+Rojo, Amarillo
+Rosa, Blanco
+Rosa, RojoAmarillo
+Blanco, RojoRosa
+Amarillo, RojoBlanco
+BlancoRosa, AmarilloBlanco
+Blanco, Naranja
+Rosa, Morado
+Naranja, Rosa
+Morado, NaranjaRosa
+MoradoRosa, MoradoNaranja
+Rosa, Azul
+Azul, Verde
+Verde, Blanco
+Verde, VerdeBlanco
+Azul, Blanco
+AzulBlanco, AzulVerde
